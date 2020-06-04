@@ -1,3 +1,3 @@
 # rchi-card-trick
-An application that can guess the randomly chosen card, a person picks
+An application that can 'magically' guess a person's randomly chosen card.
 
